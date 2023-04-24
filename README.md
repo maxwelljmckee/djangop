@@ -1,2 +1,0 @@
-# djangop
-learning django
